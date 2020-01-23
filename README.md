@@ -19,4 +19,3 @@ Replace fibo(x) call with their respective values :
 * fibo(4) = ((fibo(1) + fibo(0)) + 1) + (1 + 0)
 * fibo(4) = ((1 + 0) + 1) + (1 + 0)
 * fibo(4) = 3
-
